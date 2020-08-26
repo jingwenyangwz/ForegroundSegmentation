@@ -10,7 +10,7 @@ To develop a basic foreground segmentation algorithm to detect moving objects on
 
 - task2:
   - Implementation of a shadow suppression module using the OpenCV library
-    [Method]
+  [Method]
     - Suppression of shadows based on the chromaticy-based method
 
 - task3:
