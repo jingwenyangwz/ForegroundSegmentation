@@ -18,3 +18,5 @@ To develop a basic foreground segmentation algorithm to detect moving objects on
     - Gaussian mixture model
     
     
+- task4:
+  - Evaluate your algorithm using the [ChangeDetection datasets](http://jacarini.dinf.usherbrooke.ca/dataset2012/)
